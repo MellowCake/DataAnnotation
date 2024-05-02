@@ -1,0 +1,51 @@
+Age,Gender,Income level,How often do you use a mobile app for purchasing supermarket goods?,How often do you physically visit a supermarket for shopping?,What factors influence your decision to use a mobile app versus visiting a store?,How would you rate your overall experience using a mobile app for supermarket shopping?,How would you rate your overall experience physically visiting a supermarket?, What features do you find most convenient in the mobile app?,What do you enjoy about the in-store shopping experience?,Do you find that the mobile app offers a comparable range of products compared to the physical store?,Are there specific items you prefer to purchase in-store rather than through the app?,Can you identify a specific product you are more likely to purchase through the mobile app rather than visiting a physical store?,"Are you more price-sensitive when shopping through a mobile app, or do you tend to consider prices more when physically visiting a store?",Have you ever discovered and tried a new product through the mobile app's recommendations?
+35,Male,Medium,Daily,Rarely,"Time,Variety",5,2,Quick Checkout,Interaction with Staff,Yes,In-store for fresh produce,Clothing,App,Moderate
+45,Female,High,Monthly,Weekly,"Price,Quality",3,4,Search Function,Store Layout,Yes,In-store for personal care,Groceries,Store,No
+30,Male,High,Weekly,Monthly,"Convenience,Brand Loyalty",4,3,Barcode Scanner,Atmosphere,No,Groceries,Bakery items,Depends,Moderate
+22,Female,Low,Monthly,Rarely,Impulse Purchases,3,2,Flash sales and limited-time offers,In-store events and entertainment,Yes,Yes,Frozen foods and snacks,Price-conscious,Yes
+45,Female,Medium,Weekly,Monthly,Quality and Freshness,5,5,Real-time stock updates and delivery tracking,Relaxing shopping experience,Yes,Yes,Organic and local produce,Quality matters more,Yes
+32,Male,High,Daily,Weekly,Convenience and Variety,4,4,Wide range of payment options and order customization,Meeting other shoppers and socializing,Yes,No,Electronics and gadgets,Both important,Yes
+55,Female,Medium,Monthly,Monthly,"Quality,Brand Loyalty",4,4,Favorites List,Fresh Food Section,Yes,Fresh produce,Personal Care Items,Always,No
+31,Female,Low,Monthly,Rarely,Health and Safety Measures,4,3,Contactless payment and safety features,Enjoying the grocery store environment,Yes,No,Organic and health foods,Quality matters more,Yes
+33,Female,Low,Monthly,Rarely,Eco-friendly Options,3,2,Sustainable packaging and green initiatives,Enjoying the sensory experience of shopping,Yes,Yes,Organic and eco-friendly products,Quality matters more,Yes
+23,Male,High,Daily,Weekly,Impulse Buys and New Trends,4,4,Recommended bundles and trending products,Exploring new and unique products,Yes,Yes,Snacks and beverages,Price-conscious,Yes
+37,Female,Low,Monthly,Rarely,Brand Loyalty,3,2,Exclusive brand deals and loyalty rewards,Enjoying the sensory experience of shopping,Yes,Yes,Organic and local produce,Quality matters more,Yes
+42,Male,Medium,Weekly,Monthly,Brand Trust,5,5,Reliable customer support and easy returns,Shopping as a therapeutic activity,Yes,No,Electronics and appliances,Both important,Yes
+27,Female,High,Daily,Weekly,Convenience and Time-saving,4,4,One-click reorder and smart shopping lists,Exploring new trends,Yes,Yes,Snacks and beverages,Depends on the product,Yes
+40,Male,Low,Weekly,Monthly,"Convenience,Discounts",5,4,User Reviews,Shopping with Family,Yes,Clothing,Sports Equipment,Occasionally,Moderate
+22,Female,Low,Daily,Rarely,"Price,Variety",3,1,Quick Checkout,Exploration of New Products,No,In-store for snacks,Electronics,Never,Moderate
+50,Male,Low,Monthly,Weekly,"Convenience,Quality",3,4,Personalized Recommendations,Store Atmosphere,Yes,In-store for fresh produce,Clothing,Usually,Yes
+33,Female,High,Weekly,Monthly,"Discounts,Brand Loyalty",5,4,Easy Returns,Shopping Experience,Yes,Books,Personal Care Items,Rarely,Moderate
+48,Male,Medium,Monthly,Daily,"Quality,Variety",4,5,Order Tracking,Socializing with Staff,Yes,Shoes,Clothing,Mostly app,Moderate
+25,Female,Low,Daily,Rarely,"Convenience,Price",3,2,Wishlist,Exploring New Arrivals,Yes,In-store for personal care,Home Decor,Mostly store,Yes
+60,Male,High,Weekly,Weekly,"Discounts,Brand Loyalty",4,5,Shopping Lists,"Nostalgia, Personal Interaction",Yes,In-store for snacks,Electronics,Indifferent,Moderate
+29,Female,Medium,Monthly,Daily,"Quality,Convenience",4,4,Promo Codes,Store Layout,Yes,Books,Bakery Items,Frequently,No
+38,Male,High,Weekly,Rarely,"Convenience,Quality",4,3,Product Recommendations,Socializing with Other Shoppers,Yes,In-store for groceries,Home Appliances,Seldom,No
+27,Female,Low,Daily,Rarely,"Price,Variety",5,5,Favorites List,Time with Family,Yes,Appliances,Personal Care Items,Always app,Moderate
+42,Male,High,Monthly,Daily,"Convenience,Brand Loyalty",5,5,Quick Checkout,In-store Atmosphere,Yes,Personal care items,Clothing,Always store,No
+31,Female,Low,Weekly,Monthly,"Quality,Discounts",4,3,Barcode Scanner,Personalized Assistance,Yes,Home decor,Cleaning Supplies,Often,Moderate
+52,Male,High,Monthly,Weekly,"Convenience,Variety",4,5,Wishlist,Exploring New Arrivals,Yes,In-store for fresh produce,Electronics,Hardly ever,Yes
+35,Female,High,Weekly,Rarely,"Discounts,Quality",4,1,Shopping Lists,Socializing with Other Shoppers,Yes,In-store for personal care,Bakery Items,Primarily app,Moderate
+30,Male,High,Daily,Weekly,Price and Convenience,5,4,Quick checkout and discounts,Exploring new products,Yes,Yes,Clothing and accessories,Price-conscious,Yes
+28,Female,Low,Monthly,Rarely,Product Availability,3,2,Barcode scanning and easy navigation,Interacting with staff,Yes,Yes,Perishable items and dairy products,Store experience matters more,Yes
+35,Female,Medium,Weekly,Weekly,Brand Loyalty,4,4,Personalized recommendations and loyalty points,Shopping with friends and family,Yes,No,Specialty items and gourmet foods,Both important,No
+45,Male,Medium,Daily,Monthly,"Convenience,Brand Loyalty",5,4,User Reviews,Store Atmosphere,Yes,In-store for bakery items,Home Decor,Primarily store,No
+23,Female,Low,Monthly,Weekly,"Price,Convenience",3,3,Quick Checkout,Time Alone,Yes,Electronics,Fresh Produce,Randomly,Moderate
+39,Male,Medium,Weekly,Monthly,Seasonal and Holiday Offers,4,3,Festive discounts and holiday specials,Shopping for special occasions,Yes,Yes,Party supplies and decorations,Both important,Yes
+24,Male,High,Daily,Weekly,Product Variety,5,4,Specialty sections and international products,Shopping as a social activity,Yes,Yes,Specialty foods and imported items,Price-conscious,Yes
+36,Female,Low,Monthly,Rarely,Local and Community Support,4,3,Supporting local businesses and community initiatives,Connecting with local vendors,Yes,No,Fresh produce and dairy products,Quality matters more,Yes
+34,Male,Medium,Weekly,Weekly,Shopping Experience,5,5,Interactive shopping guides and virtual tours,Relaxing and stress-free shopping,Yes,Yes,Electronics and gadgets,Both important,Yes
+55,Male,High,Weekly,Monthly,"Quality,Discounts",5,4,Promo Codes,Socializing with Staff,Yes,Furniture,Clothing,Predominantly app,Yes
+25,Female,Medium,Weekly,Monthly,Convenience,4,3,User-friendly interface,Atmosphere and ambiance,Yes,Yes,Fresh produce and bakery items,Price-sensitive,Yes
+40,Male,High,Daily,Weekly,Sale Promotions,4,3,Deals and promotions section,Product sampling and testing,Yes,Yes,Alcohol and beverages,Depends on the product,Yes
+26,Female,Low,Monthly,Rarely,Product Reviews,3,2,User reviews and ratings,Exploring new products,Yes,Yes,Toiletries and personal care items,Depends on the product,Yes
+38,Male,Medium,Weekly,Weekly,Family Preferences,4,3,Family account and shared shopping lists,Quality time with family,Yes,Yes,Fresh produce and dairy products,Both important,Yes
+29,Female,High,Daily,Weekly,Discounts and Rewards,5,4,Rewards program and cashback offers,Discovering new brands,Yes,Yes,Clothing and accessories,Price-conscious,Yes
+41,Male,Medium,Weekly,Monthly,Convenience and Efficiency,4,3,Express checkout and quick delivery options,Shopping efficiently and saving time,Yes,Yes,Electronics and appliances,Depends on the product,Yes
+28,Male,High,Daily,Weekly,Discounts and Bargains,5,4,Flash sales and clearance items,Finding hidden gems and unique items,Yes,Yes,Clothing and accessories,Price-conscious,Yes
+25,Male,Low,Monthly,Rarely,Personalized Recommendations,3,2,AI-driven personalized suggestions and shopping lists,Shopping with friends and family,Yes,No,Fresh produce and dairy products,Both important,Yes
+30,Male,Medium,Weekly,Weekly,Quality and Freshness,4,4,Real-time stock updates and delivery tracking,Exploring new products,Yes,Yes,Specialty foods and gourmet items,Quality matters more,Yes
+22,Male,High,Daily,Weekly,Price and Variety,3,2,Competitive prices and a wide product range,Enjoying the grocery store environment,Yes,Yes,Snacks and beverages,Depends on the product,Yes
+27,Female,High,Weekly,Weekly,Environmental Impact and Sustainability,4,3,Eco-friendly packaging and sustainable sourcing,Supporting local farmers and producers,Yes,Yes,Organic and sustainable products,Beauty and personal care items,Yes
+35,Female,Low,Monthly,Rarely,Health and Wellness,5,3,Wellness and health-focused categories,Relaxing and stress-free shopping,Yes,Yes,Organic and health foods,Quality matters more,Yes
+39,Male,Medium,Weekly,Monthly,Convenience and Technology,4,4,Smart shopping carts and contactless payment,Shopping as a social activity,Yes,No,Electronics and appliances,Both important,Yes
